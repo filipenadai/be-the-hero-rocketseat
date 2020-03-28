@@ -1,2 +1,11 @@
 # be-the-hero-rocketseat
-Projeto de estudo aprendido na semana OmniStack 11 pela Rocketseat. O projeto consiste em mostrar ongs que precisam de uma contribuição e facilitar a comunicação para quem queira ajudar a ong 
+Study project learned in the week OmniStack 11 by Rocketseat.
+
+Be The Hero
+
+![](frontend/src/assets/logo.svg)
+
+The project consists of registering cases of NGOs and show these cases to those who want to contribute some value.
+So creating heroes.
+
+![](frontend/src/assets/heroes.png)
